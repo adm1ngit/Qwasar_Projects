@@ -1,23 +1,23 @@
 Welcome to My Python and Data Science Projects
 
-Description
+# Description
 
 A great program for those just starting out in programming. There are various problems, challenges and interesting projects. Consolidating knowledge and gaining experience in Python is the dream of every programmer.
 
-Installation
+# Installation
 
 python -m venv venv
 
 source venv/bin/activate
 
-Methods Used
+# Methods Used
 
 Inferential Statistics
 Machine Learning
 Data Visualization
 Predictive Modeling
 
-Technologies
+# Technologies
 
 Python, Ruby, Javascript, Java
 Postgres, Sqlite
@@ -25,5 +25,5 @@ Pandas, NumPy, Jupyter
 Scikit-learn
 Plotly, Seaborn, Matplotlib
 
-The Core Team
+# The Core Team
 Made at Qwasar Silicon Valley Qwasar Silicon Valley Logo
