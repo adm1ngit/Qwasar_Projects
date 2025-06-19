@@ -26,4 +26,4 @@ Scikit-learn
 Plotly, Seaborn, Matplotlib
 
 # The Core Team
-Made at Qwasar Silicon Valley Qwasar Silicon Valley Logo
+Made at Qwasar Silicon Valley Qwasar Silicon Valley
